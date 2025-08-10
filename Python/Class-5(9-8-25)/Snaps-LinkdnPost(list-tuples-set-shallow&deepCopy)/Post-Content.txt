@@ -1,0 +1,12 @@
+📚 Learning Update – Cloud Data Engineering @ SMIT (Zaitoon Ashraf IT Park) 
+
+Today’s session under the mentorship of Sir Qasim Hassan was another exciting step in my Cloud Data Engineering journey.
+
+We explored Lists, Tuples, and Sets in Python — understanding their structures, differences, and practical use cases.
+Sir also walked us through the various methods for each data type, which will be incredibly useful in data manipulation tasks.
+
+For the next class, we’ve been given a self-study topic: Shallow Copy vs Deep Copy — a fascinating concept that I’ve already explored at home to strengthen my understanding.
+
+Every class adds more clarity and makes me even more excited to keep building my skills in this powerful field. 
+
+hashtag#SMIT hashtag#CloudDataEngineering hashtag#PythonProgramming hashtag#DataStructures hashtag#LearningJourney hashtag#ShallowCopy hashtag#DeepCopy hashtag#Mentorship hashtag#LifelongLearning hashtag#SirQasimHassan hashtag#ZaitoonAshrafITPark hashtag#TechSkills
