@@ -39,4 +39,4 @@
 
 Ouput Question 1: 
 
-![question1-ouput.png](Snaps/Question1-snaps/question1-ouput.png)
+![question1-ouput.png](Snaps-linkedinContent/Question1-snaps/question1-ouput.png)
