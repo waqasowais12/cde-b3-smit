@@ -1,0 +1,31 @@
+🚀 Today, I practiced a small mini project while learning Python in my Cloud Data Engineering course at Saylani Mass IT Training (Zaitoon Ashraf IT Park) under the guidance of Sir Qasim Hassan.
+
+The project was about building a Student Report Card Generator.
+In this task, I had to:
+
+Take student details as strings and apply string methods
+
+Use lists to store marks of 5 subjects
+
+Apply conditional statements (if, elif, else) to check pass/fail and assign grades
+
+Work with tuples for storing fixed student info (name, roll no)
+
+Use sets for maintaining unique subject names
+
+Perform comparison operators to calculate total and percentage
+
+Use string concatenation and slicing for displaying formatted output
+
+And finally, implement deep vs shallow copy to understand how data references work in Python
+
+📌 Question in short:
+"Create a Student Report Card System where you input student details and marks, calculate percentage, assign grade, and demonstrate Python concepts like string methods, conditionals, lists, tuples, sets, slicing, operators, and deep/shallow copy."
+
+This small project really helped me connect theory with real-world logic and improved my problem-solving skills. Each topic became more meaningful when applied in a practical scenario.
+
+💡 I strongly believe working on such mini projects is one of the best ways to build logic step by step and gain confidence for bigger challenges in programming.
+
+🔖 Hashtags
+
+#Python #PythonProgramming #PythonForBeginners #CloudDataEngineering #Saylani #ProblemSolving #ProgrammingPractice #CodingLife #LogicBuilding #ProgrammingCommunity #DataEngineering #DataScience #LearnPython #CodeNewbie #100DaysOfCode #SelfLearning #Students #ProgrammingJourney #CodeDaily #PythonProjects
