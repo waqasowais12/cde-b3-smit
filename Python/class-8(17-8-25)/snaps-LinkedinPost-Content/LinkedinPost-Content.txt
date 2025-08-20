@@ -1,0 +1,14 @@
+📘 Learning Update – SMIT Cloud Data Engineering @ Zaitoon Ashraf IT Park
+
+In our recent session under the supervision of Sir Qasim Hassan, we explored some very important Python concepts that build the foundation for problem-solving and data handling:
+
+🔹 Loops – mastering iteration for efficiency.
+ 🔹 Dictionaries – understanding key-value data storage.
+ 🔹 Looping on Dictionaries – accessing and manipulating data effectively.
+ 🔹 List & Dictionary Comprehensions – writing cleaner, faster, and more readable code.
+
+Every class strengthens not only my technical skills but also the way I approach coding challenges. Learning these concepts with practical insights from Sir Qasim Hassan makes the journey even more engaging and impactful. 🚀
+
+Excited to keep improving and applying these skills in real-world projects! 💡
+
+hashtag#SMIT hashtag#Saylani hashtag#CloudDataEngineering hashtag#Python hashtag#Loops hashtag#Dictionary hashtag#Comprehension hashtag#CodingSkills hashtag#LearningJourney hashtag#SirQasimHassan hashtag#Mentorship hashtag#TechGrowth hashtag#ZaitoonAshrafITPark
