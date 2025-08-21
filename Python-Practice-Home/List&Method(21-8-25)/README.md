@@ -5,19 +5,19 @@
 - It will add the value at the end of the list.
 - append added only single value in the list.
 
-![append](Snaps/append.png)
+![append](Snaps-LinkedinPost-Content/append.png)
 
 ### 2. List method count()
 - It will count the "x" elements in the list eg. (city.count("karachi") --> the answer will depend on how many times karachi appears in a list)
 
-![count](Snaps/count.png)
+![count](Snaps-LinkedinPost-Content/count.png)
 
 ### 3. List method extend()
 - It will add one or more elements in the list and add each element separately. It means that all of these items of (string,list,tuple) will add separately in the list.
 - eg. city.extend(["Peshawar","Sukkur"]) --> it will add peshawar and sukkur separately in the list.
 - eg. city.extend("AB") --> it will add A and B separately in the list.
 
-![extend](Snaps/extend.png)
+![extend](Snaps-LinkedinPost-Content/extend.png)
 
 ### 4. List method index()
 
@@ -25,8 +25,8 @@
 - You can also give it a start and end range. eg. city.index("Muree",8) --> it will find position of the given item after the 8 position because we pass the starting position.
 - city.index("Muree",start,end)
 
-![index](Snaps/index.png)
-![index1](Snaps/index1.png)
+![index](Snaps-LinkedinPost-Content/index.png)
+![index1](Snaps-LinkedinPost-Content/index1.png)
 
 ### 5. List method insert()
 
@@ -36,7 +36,7 @@
     - item --> the element you want to add.
     - eg. city.insert(10,"Kagan")
 
-![insert](Snaps/insert.png)
+![insert](Snaps-LinkedinPost-Content/insert.png)
 
 ### 6. List method pop()
 
@@ -46,14 +46,14 @@
 - pop() is useful when you want both to remove and use the element.
 - pop() → remove by index, returns the removed item.
 
-![pop](Snaps/pop.png)
+![pop](Snaps-LinkedinPost-Content/pop.png)
 
 ### 7. List method remove
 
 - It will remove the first occurance of any item.
 - remove() → remove by value, no return, error if not found.
 
-![remove](Snaps/remove.png)
+![remove](Snaps-LinkedinPost-Content/remove.png)
 
 ### 8. List method reverse()
 
@@ -63,7 +63,7 @@ That means it directly changes the list — it does not make a new one, and it d
 - It doesn’t sort; it just flips the list backwards.
 - It returns None, so you shouldn’t do x = nums.reverse() (that would make x = None).
 
-![reverse](Snaps/reverse.png)
+![reverse](Snaps-LinkedinPost-Content/reverse.png)
 
 ### 9. List method sort()
 
@@ -75,19 +75,19 @@ That means it directly changes the list — it does not make a new one, and it d
     #### Ascending order example (by default)
         - eg. city.sort()
 
-    ![sort-asc](Snaps/sort-asc.png)
+    ![sort-asc](Snaps-LinkedinPost-Content/sort-asc.png)
 
     #### Descending order example
         - eg. city.sort(reverse=True)
 
-    ![sort-dsc](Snaps/sort-dsc.png)
+    ![sort-dsc](Snaps-LinkedinPost-Content/sort-dsc.png)
 
 ### 10. List method copy()
 
 - The copy() method makes a shallow copy of a list.
 That means it creates a new list with the same elements, but at a different memory location.
 
-![copy](Snaps/copy.png)
+![copy](Snaps-LinkedinPost-Content/copy.png)
 
 #### Shalow Copy
 
@@ -98,10 +98,10 @@ That means it creates a new list with the same elements, but at a different memo
 - If we make a list and add nested list into a list and copy that list, so that mean's we have 2 list with the same items. But if we change nested list any of them the changes will occur in both list.
 - This happens beacuase of nested list items of both list sharing the same memory location. 
 
-![shalow-copy](Snaps/shalow-copy.png)
+![shalow-copy](Snaps-LinkedinPost-Content/shalow-copy.png)
 
 #### Deep copy
 
 - In deep copy there is both simple and nested list there is no change in list if we change in any list beacuase in deep copy both list item are stored in a different memory location.
 
-![deep-copy](Snaps/deep-copy.png)
+![deep-copy](Snaps-LinkedinPost-Content/deep-copy.png)
