@@ -1,0 +1,17 @@
+✨ Continuing My Cloud Data Engineering Journey ✨
+
+In my recent class of Cloud Data Engineering at Saylani Mass IT Training (SMIT), I had the opportunity to explore some really important programming concepts under the guidance of Sir Qasim Hassan and Sir Umair Nawaz.
+Here’s what I learned:
+
+ - List of Dictionaries – how multiple records can be managed efficiently.
+ - Dictionary of List – grouping related values together under one key.
+ - Dictionary of Dictionary – nesting structures for complex data handling.
+ - Functions & Parameter Functions – understanding how to define, pass, and utilize parameters effectively.
+ - Saving Functions into Variables – treating functions as first-class citizens in Python.
+ - Handling Unknown Parameters – using techniques to manage variable numbers of arguments.
+
+💡 Key takeaway: These concepts are not just theory — they’re practical building blocks for writing clean, reusable, and scalable code, which is essential for data engineering and real-world problem solving.
+
+I’m grateful for the continuous mentorship of my respected teachers, Sir Qasim Hassan and Sir Umair Nawaz, for guiding us through these fundamentals with real-world clarity. 🙌
+
+ hashtag#CloudDataEngineering hashtag#PythonProgramming hashtag#DataEngineering hashtag#SaylaniMassITTraining hashtag#SMIT hashtag#ZaitonAshrafITPark hashtag#LearningByDoing hashtag#CodingJourney hashtag#SirQasimHassan hashtag#SirUmairNawaz hashtag#PythonForData
