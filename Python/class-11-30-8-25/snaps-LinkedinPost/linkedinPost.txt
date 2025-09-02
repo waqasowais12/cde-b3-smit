@@ -1,0 +1,28 @@
+💡 Cracking Python Tasks with Loops & Comprehensions 🚀
+
+In my Cloud Data Engineering journey at Saylani SMIT (Zaiton Ashraf IT Park), I recently worked on an exciting task given by my mentor Sir Qasim Hassan. The challenge was to practice Python fundamentals deeply by solving problems in two ways:
+👉 Method 1: Simple Loops
+👉 Method 2: Python Comprehensions
+
+📌 Key Requirements of the Task:
+1️⃣ Add an "age" key with default value None to all dictionaries using loops and comprehensions.
+2️⃣ Convert a list of dictionaries into a list of lists (only values, no keys).
+3️⃣ Transform a list of dicts into a dict of dicts.
+4️⃣ Remove "customer id" from the final dict of dicts.
+
+✨ Learning & Understanding:
+
+Strengthened my grip on loops (for & while) and how they handle iteration.
+
+Explored the power of list & dictionary comprehensions — making code shorter, cleaner, and more Pythonic.
+
+Practiced conversions between lists and dictionaries, a must-have skill in data handling & preprocessing for real-world applications.
+
+Learned how different methods can solve the same problem, but comprehensions often give a more efficient and elegant solution.
+
+📂 I’ve uploaded the complete task with both solutions (loops + comprehensions) to my GitHub repo for anyone who wants to check it out or practice along:
+👉 [GitHub Link Here]
+
+A huge thanks to Sir Qasim Hassan for guiding us and showing how to approach problems from multiple angles — it’s helping me build a stronger foundation for my Cloud Data Engineering journey. 🙌
+
+#Python #Loops #ListComprehension #DictComprehension #ProblemSolving #CloudDataEngineering #Saylani #SMIT #ZaitonAshrafITPark #LearningJourney #QasimHassan #GitHub #DataStructures #PAFKIET #Assignments
