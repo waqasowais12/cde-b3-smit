@@ -42,4 +42,4 @@ Loading data to SQL
 
 ### OUTPUT AFTER EXECUTING PIPELINE
 
-![8.png](snaps/8.png)
+![9.png](snaps/9.png)
