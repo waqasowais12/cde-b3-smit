@@ -34,12 +34,12 @@
 - `Source: GapMinder, Wealth and Health of Nation`
 
 
-![numpy](snaps/numpy12.png)
+![numpy](snaps/matplot12.png)
 
-![numpy](snaps/numpy13.png)
+![numpy](snaps/matplot13.png)
 
-![numpy](snaps/numpy14.png)
+![numpy](snaps/matplot14.png)
 
-![numpy](snaps/numpy15.png)
+![numpy](snaps/matplot15.png)
 
-![numpy](snaps/numpy16.png)
+![numpy](snaps/matplot16.png)
