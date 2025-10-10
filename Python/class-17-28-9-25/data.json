@@ -1,0 +1,1 @@
+{"name": "John Doe", "age": 30, "email": "john.doe@example.com", "isActive": true, "skills": ["SQL", "Python", "Data Engineer"], "address": {"street": "123 Main St", "city": "Anytown", "zip": "12345"}, "weight": 60}
