@@ -5,7 +5,8 @@ import seaborn as sns
 import os
 
 # --- CONFIGURATION ---
-DATA_FOLDER = "data"  # Files yahan honi chahiye
+current_dir = os.path.dirname(os.path.abspath(__file__))
+DATA_FOLDER = os.path.join(current_dir, "data")
 
 # Set page configuration
 st.set_page_config(page_title="Banggood Data Analysis", layout="wide")
