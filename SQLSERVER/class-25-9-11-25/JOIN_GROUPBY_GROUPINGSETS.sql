@@ -89,6 +89,8 @@ RIGHT JOIN Righttable r
 ON l.CountryID = r.Id
 WHERE l.CountryID is null;
 
+
+------------------------------------ORDER OF EXECUTION OF COMMANDS IN SQL-----------------------------------
 -- FROM/JOIN >> WHERE >> GROUP BY >> HAVING >> SELECT >> DISTINCT >> ORDER BY >> LIMITS/OFFSET
 
 -- Full Outer join
