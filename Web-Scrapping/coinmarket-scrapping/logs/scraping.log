@@ -1,0 +1,381 @@
+2026-01-23 04:05:31,181 - INFO - [main.py] - Project Started...
+2026-01-23 04:05:31,318 - INFO - [database.py] - Database crypto_db nahi mila, naya bana rahe hen...
+2026-01-23 04:05:31,607 - INFO - [database.py] - Database created successfully.
+2026-01-23 04:05:31,679 - INFO - [database.py] - Table structure checked/created successfully.
+2026-01-23 04:05:31,679 - INFO - [logger.py] - ====== WebDriver manager ======
+2026-01-23 04:05:32,859 - INFO - [logger.py] - Get LATEST chromedriver version for google-chrome
+2026-01-23 04:05:33,103 - INFO - [logger.py] - Get LATEST chromedriver version for google-chrome
+2026-01-23 04:05:33,223 - INFO - [logger.py] - There is no [win64] chromedriver "143.0.7499.192" for browser google-chrome "143.0.7499" in cache
+2026-01-23 04:05:33,223 - INFO - [logger.py] - Get LATEST chromedriver version for google-chrome
+2026-01-23 04:05:33,559 - INFO - [logger.py] - WebDriver version 143.0.7499.192 selected
+2026-01-23 04:05:33,567 - INFO - [logger.py] - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/win32/chromedriver-win32.zip
+2026-01-23 04:05:33,567 - INFO - [logger.py] - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/143.0.7499.192/win32/chromedriver-win32.zip
+2026-01-23 04:05:33,829 - INFO - [logger.py] - Driver downloading response is 200
+2026-01-23 04:05:39,399 - INFO - [logger.py] - Get LATEST chromedriver version for google-chrome
+2026-01-23 04:05:39,709 - INFO - [logger.py] - Driver has been saved in cache [C:\Users\USER\.wdm\drivers\chromedriver\win64\143.0.7499.192]
+2026-01-23 04:05:42,343 - INFO - [scraper.py] - Navigating to Page: 1
+2026-01-23 04:05:53,513 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:06:34,144 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:06:34,893 - INFO - [scraper.py] - Found 101 rows (excluding header)
+2026-01-23 04:06:35,109 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:06:37,110 - INFO - [scraper.py] - Navigating to Page: 2
+2026-01-23 04:06:43,306 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:07:07,993 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:07:08,698 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:07:08,901 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:07:10,902 - INFO - [scraper.py] - Navigating to Page: 3
+2026-01-23 04:07:16,027 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:07:41,238 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:07:41,866 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:07:42,150 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:07:44,150 - INFO - [scraper.py] - Navigating to Page: 4
+2026-01-23 04:07:48,875 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:08:13,927 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:08:14,592 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:08:14,760 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:08:16,761 - INFO - [scraper.py] - Navigating to Page: 5
+2026-01-23 04:08:22,282 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:09:00,231 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:09:01,771 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:09:02,286 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:09:04,287 - INFO - [scraper.py] - Navigating to Page: 6
+2026-01-23 04:09:14,497 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:09:41,356 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:09:42,078 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:09:42,537 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:09:44,538 - INFO - [scraper.py] - Navigating to Page: 7
+2026-01-23 04:09:50,499 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:10:15,206 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:10:15,898 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:10:16,070 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:10:18,071 - INFO - [scraper.py] - Navigating to Page: 8
+2026-01-23 04:10:22,230 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:10:59,969 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:11:00,541 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:11:00,725 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:11:02,726 - INFO - [scraper.py] - Navigating to Page: 9
+2026-01-23 04:11:07,710 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:11:46,365 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:11:47,064 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:11:47,257 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:11:49,258 - INFO - [scraper.py] - Navigating to Page: 10
+2026-01-23 04:11:54,687 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:12:34,154 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:12:34,851 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:12:35,030 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:12:37,031 - INFO - [scraper.py] - Navigating to Page: 11
+2026-01-23 04:12:42,017 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:13:07,412 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:13:08,205 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:13:08,396 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:13:10,397 - INFO - [scraper.py] - Navigating to Page: 12
+2026-01-23 04:13:17,343 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:13:55,107 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:13:55,773 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:13:55,952 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:13:57,954 - INFO - [scraper.py] - Navigating to Page: 13
+2026-01-23 04:14:05,166 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:14:30,576 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:14:31,281 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:14:31,452 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:14:33,453 - INFO - [scraper.py] - Navigating to Page: 14
+2026-01-23 04:14:38,455 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:15:06,389 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:15:07,125 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:15:07,302 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:15:09,303 - INFO - [scraper.py] - Navigating to Page: 15
+2026-01-23 04:15:14,789 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:15:40,449 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:15:40,903 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:15:40,992 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:15:42,993 - INFO - [scraper.py] - Navigating to Page: 16
+2026-01-23 04:15:52,937 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:16:05,011 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:16:05,465 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:16:05,499 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:16:07,500 - INFO - [scraper.py] - Navigating to Page: 17
+2026-01-23 04:16:17,802 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:16:29,922 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:16:30,429 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:16:30,471 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:16:32,472 - INFO - [scraper.py] - Navigating to Page: 18
+2026-01-23 04:16:42,442 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:16:54,316 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:16:54,859 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:16:54,890 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:16:56,891 - INFO - [scraper.py] - Navigating to Page: 19
+2026-01-23 04:17:06,067 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:17:17,987 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:17:18,384 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:17:18,425 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:17:20,425 - INFO - [scraper.py] - Navigating to Page: 20
+2026-01-23 04:17:29,246 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:17:41,775 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:17:42,204 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:17:42,236 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:17:44,237 - INFO - [scraper.py] - Navigating to Page: 21
+2026-01-23 04:17:53,203 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:18:05,729 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:18:06,122 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:18:06,152 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:18:08,153 - INFO - [scraper.py] - Navigating to Page: 22
+2026-01-23 04:18:17,293 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:18:29,715 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:18:30,167 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:18:30,214 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:18:32,215 - INFO - [scraper.py] - Navigating to Page: 23
+2026-01-23 04:18:41,377 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:18:53,411 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:18:53,825 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:18:53,854 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:18:55,856 - INFO - [scraper.py] - Navigating to Page: 24
+2026-01-23 04:19:05,233 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:19:17,248 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:19:17,695 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:19:17,730 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:19:19,731 - INFO - [scraper.py] - Navigating to Page: 25
+2026-01-23 04:19:29,380 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:19:41,399 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:19:41,849 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:19:41,895 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:19:43,896 - INFO - [scraper.py] - Navigating to Page: 26
+2026-01-23 04:19:53,765 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:20:05,708 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:20:06,134 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:20:06,161 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:20:08,162 - INFO - [scraper.py] - Navigating to Page: 27
+2026-01-23 04:20:18,472 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:20:30,556 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:20:31,012 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:20:31,045 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:20:33,047 - INFO - [scraper.py] - Navigating to Page: 28
+2026-01-23 04:20:43,595 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:20:55,780 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:20:56,355 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:20:56,384 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:20:58,386 - INFO - [scraper.py] - Navigating to Page: 29
+2026-01-23 04:21:07,781 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:21:19,950 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:21:20,371 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:21:20,403 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:21:22,404 - INFO - [scraper.py] - Navigating to Page: 30
+2026-01-23 04:21:31,445 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:21:43,259 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:21:43,775 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:21:43,815 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:21:45,816 - INFO - [scraper.py] - Navigating to Page: 31
+2026-01-23 04:21:56,018 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:22:07,888 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:22:08,295 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:22:08,329 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:22:10,331 - INFO - [scraper.py] - Navigating to Page: 32
+2026-01-23 04:22:19,680 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:22:31,611 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:22:32,028 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:22:32,062 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:22:34,063 - INFO - [scraper.py] - Navigating to Page: 33
+2026-01-23 04:22:43,456 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:22:55,315 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:22:55,734 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:22:55,777 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:22:57,777 - INFO - [scraper.py] - Navigating to Page: 34
+2026-01-23 04:23:06,835 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:23:20,112 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:23:20,795 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:23:20,865 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:23:22,866 - INFO - [scraper.py] - Navigating to Page: 35
+2026-01-23 04:23:33,158 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:23:45,082 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:23:45,485 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:23:45,520 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:23:47,521 - INFO - [scraper.py] - Navigating to Page: 36
+2026-01-23 04:23:57,156 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:24:09,062 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:24:09,525 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:24:09,559 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:24:11,560 - INFO - [scraper.py] - Navigating to Page: 37
+2026-01-23 04:24:21,715 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:24:36,420 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:24:36,810 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:24:36,842 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:24:38,843 - INFO - [scraper.py] - Navigating to Page: 38
+2026-01-23 04:24:48,800 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:25:01,270 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:25:01,707 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:25:01,737 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:25:03,738 - INFO - [scraper.py] - Navigating to Page: 39
+2026-01-23 04:25:13,179 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:25:25,044 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:25:25,802 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:25:25,838 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:25:27,839 - INFO - [scraper.py] - Navigating to Page: 40
+2026-01-23 04:25:39,196 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:25:50,960 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:25:51,757 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:25:51,797 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:25:53,798 - INFO - [scraper.py] - Navigating to Page: 41
+2026-01-23 04:26:05,104 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:26:18,440 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:26:18,877 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:26:18,919 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:26:20,921 - INFO - [scraper.py] - Navigating to Page: 42
+2026-01-23 04:26:31,168 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:26:43,027 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:26:43,456 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:26:43,486 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:26:45,487 - INFO - [scraper.py] - Navigating to Page: 43
+2026-01-23 04:26:55,440 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:27:07,391 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:27:07,889 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:27:07,919 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:27:09,920 - INFO - [scraper.py] - Navigating to Page: 44
+2026-01-23 04:27:20,727 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:27:32,690 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:27:33,142 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:27:33,184 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:27:35,186 - INFO - [scraper.py] - Navigating to Page: 45
+2026-01-23 04:27:44,225 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:27:56,174 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:27:56,670 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:27:56,698 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:27:58,700 - INFO - [scraper.py] - Navigating to Page: 46
+2026-01-23 04:28:08,528 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:28:20,299 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:28:20,747 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:28:20,781 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:28:22,781 - INFO - [scraper.py] - Navigating to Page: 47
+2026-01-23 04:28:32,400 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:28:44,321 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:28:44,783 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:28:44,830 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:28:46,831 - INFO - [scraper.py] - Navigating to Page: 48
+2026-01-23 04:28:57,183 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:29:09,108 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:29:09,744 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:29:09,775 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:29:11,776 - INFO - [scraper.py] - Navigating to Page: 49
+2026-01-23 04:29:21,812 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:29:35,248 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:29:36,398 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:29:36,489 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:29:38,490 - INFO - [scraper.py] - Navigating to Page: 50
+2026-01-23 04:29:45,252 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:30:36,655 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:30:37,332 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:30:37,540 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:30:39,541 - INFO - [scraper.py] - Navigating to Page: 51
+2026-01-23 04:30:45,765 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:31:12,246 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:31:13,156 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:31:13,334 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:31:15,335 - INFO - [scraper.py] - Navigating to Page: 52
+2026-01-23 04:31:19,518 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:31:44,823 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:31:45,424 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:31:45,582 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:31:47,583 - INFO - [scraper.py] - Navigating to Page: 53
+2026-01-23 04:31:59,347 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:32:11,219 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:32:11,719 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:32:11,752 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:32:13,753 - INFO - [scraper.py] - Navigating to Page: 54
+2026-01-23 04:32:27,791 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:32:39,623 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:32:40,121 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:32:40,155 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:32:42,163 - INFO - [scraper.py] - Navigating to Page: 55
+2026-01-23 04:32:53,819 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:33:05,814 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:33:06,254 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:33:06,295 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:33:08,296 - INFO - [scraper.py] - Navigating to Page: 56
+2026-01-23 04:33:19,941 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:33:31,842 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:33:32,244 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:33:32,277 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:33:34,278 - INFO - [scraper.py] - Navigating to Page: 57
+2026-01-23 04:33:45,560 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:33:57,553 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:33:58,188 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:33:58,219 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:34:00,220 - INFO - [scraper.py] - Navigating to Page: 58
+2026-01-23 04:34:09,601 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:34:21,685 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:34:22,118 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:34:22,156 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:34:24,157 - INFO - [scraper.py] - Navigating to Page: 59
+2026-01-23 04:34:35,042 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:34:47,149 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:34:47,596 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:34:47,622 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:34:49,623 - INFO - [scraper.py] - Navigating to Page: 60
+2026-01-23 04:35:00,819 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:35:12,901 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:35:13,393 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:35:13,430 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:35:15,431 - INFO - [scraper.py] - Navigating to Page: 61
+2026-01-23 04:35:25,699 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:35:37,508 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:35:37,924 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:35:37,957 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:35:39,958 - INFO - [scraper.py] - Navigating to Page: 62
+2026-01-23 04:35:49,352 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:36:01,200 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:36:01,595 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:36:01,628 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:36:03,629 - INFO - [scraper.py] - Navigating to Page: 63
+2026-01-23 04:36:14,753 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:36:26,695 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:36:27,178 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:36:27,211 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:36:29,212 - INFO - [scraper.py] - Navigating to Page: 64
+2026-01-23 04:36:40,794 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:36:52,644 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:36:53,046 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:36:53,078 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:36:55,079 - INFO - [scraper.py] - Navigating to Page: 65
+2026-01-23 04:37:06,346 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:37:18,330 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:37:18,727 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:37:18,759 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:37:20,759 - INFO - [scraper.py] - Navigating to Page: 66
+2026-01-23 04:37:35,818 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:37:47,631 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:37:48,116 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:37:48,145 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:37:50,146 - INFO - [scraper.py] - Navigating to Page: 67
+2026-01-23 04:38:01,817 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:38:13,630 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:38:14,095 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:38:14,126 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:38:16,127 - INFO - [scraper.py] - Navigating to Page: 68
+2026-01-23 04:38:27,114 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:39:03,686 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:39:04,632 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:39:04,808 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:39:06,809 - INFO - [scraper.py] - Navigating to Page: 69
+2026-01-23 04:39:13,809 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:39:51,596 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:39:52,229 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:39:52,391 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:39:54,391 - INFO - [scraper.py] - Navigating to Page: 70
+2026-01-23 04:39:59,661 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:40:24,383 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:40:25,054 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:40:25,254 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:40:27,255 - INFO - [scraper.py] - Navigating to Page: 71
+2026-01-23 04:40:32,377 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:40:57,019 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:40:57,637 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:40:57,798 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:40:59,799 - INFO - [scraper.py] - Navigating to Page: 72
+2026-01-23 04:41:08,978 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:41:33,337 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:41:33,999 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:41:34,170 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:41:36,171 - INFO - [scraper.py] - Navigating to Page: 73
+2026-01-23 04:41:43,329 - INFO - [scraper.py] - Scrolling start...
+2026-01-23 04:42:08,364 - INFO - [scraper.py] - Scrolling finished.
+2026-01-23 04:42:09,034 - INFO - [scraper.py] - Found 100 rows (excluding header)
+2026-01-23 04:42:09,252 - INFO - [database.py] - Saved -1 records to SQL Server.
+2026-01-23 04:42:11,253 - INFO - [scraper.py] - Navigating to Page: 74

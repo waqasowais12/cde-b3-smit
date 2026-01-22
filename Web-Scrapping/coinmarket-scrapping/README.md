@@ -7,47 +7,7 @@ The project is designed with a **Modular Architecture**, ensuring separation of 
 
 ## Project Architecture Diagram
 
-graph TD
-    subgraph "External World"
-        CMC[CoinMarketCap Website]
-        SQL[(Microsoft SQL Server)]
-    end
-
-    subgraph "Python Application"
-        Main[main.py (Controller)]
-        
-        subgraph "Scraping Layer"
-            Scraper[scraper.py]
-            Selenium[Selenium WebDriver]
-            Soup[BeautifulSoup Parser]
-        end
-        
-        subgraph "Data Layer"
-            DB_Mod[database.py]
-            ODBC[pyodbc Driver]
-        end
-        
-        Logger[logger.py (Tracking)]
-    end
-
-    %% Flow
-    Main -->|1. Init| DB_Mod
-    Main -->|2. Start Browser| Selenium
-    
-    Selenium -->|3. Request & Scroll| CMC
-    CMC -->|4. Return HTML| Selenium
-    Selenium -->|5. Raw HTML| Soup
-    Soup -->|6. Clean Data List| Scraper
-    Scraper -->|7. Return Data| Main
-    
-    Main -->|8. Send Data| DB_Mod
-    DB_Mod -->|9. Insert Query| ODBC
-    ODBC -->|10. Store Data| SQL
-    
-    %% Logging
-    Main -.-> Logger
-    Scraper -.-> Logger
-    DB_Mod -.-> Logger
+![architecture-daig](snaps/Architecture_diag.png)
 
 ## 🚀 Key Features
 * **Hybrid Scraping:** Uses **Selenium** for handling JavaScript/Lazy Loading and **BeautifulSoup** for fast HTML parsing.
